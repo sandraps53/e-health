@@ -46,6 +46,12 @@ npm run dev
 
 Running the Application
 
-Access the frontend at: http://localhost:5173
-Access the backend API at: http://localhost:4000
+Access the frontend at: http://localhost:5173 or https://e-health-frontend1.vercel.app/
+Access the backend API at: http://localhost:4000 or https://e-health-api2.vercel.app/
+
+Deployment
+https://e-health-frontend1.vercel.app/
+
+Frontend hosted on Vercel: https://e-health-frontend1.vercel.app/
+Backend hosted on Railway: https://e-health-api2.vercel.app/
 
