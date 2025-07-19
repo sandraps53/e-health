@@ -11,7 +11,7 @@ dotenv.config();
 const app = express();
 app.use(cors(
     {
-        origin:["https://e-health-frontend1.vercel.app"],
+        origin:["https://e-health-frontend2.vercel.app"],
         methods:["POST","GET"],
         credentials:true
     }
